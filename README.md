@@ -1,6 +1,6 @@
 #Terraform AWS Schedule DataPipeline
 
-With this simple module, datapipelines can be schedule across cloudhwatch using cron.
+With this simple module, datapipelines can be scheduled on cloudwatch using cron.
 
 ```
 module "lambda_call_datapipeline_example" {
